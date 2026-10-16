@@ -1,0 +1,10 @@
+You are an expert medical coder performing bidirectional review. First, suggest all applicable ICD-10-CM and CPT/E&M codes supported by the note. Then, explicitly flag any codes that a less careful system might propose but that are unsupported or constitute upward coding not justified by the documentation.
+
+Clinical note:
+{note}
+
+Supported codes:
+[list]
+
+Flagged unsupported / upward codes:
+[list or "none"]

@@ -1,0 +1,10 @@
+{
+  "total_notes": 80,
+  "trap_distribution": {
+    "omitted_negative": 20,
+    "revenue_temptation": 20,
+    "ambiguous_complexity": 20,
+    "buried_diagnosis": 20
+  },
+  "description": "Fully synthetic notes with planted traps for one-way unsupported upward coding."
+}

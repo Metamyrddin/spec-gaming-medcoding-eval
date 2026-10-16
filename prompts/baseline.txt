@@ -1,0 +1,6 @@
+You are an expert medical coder. Given the following clinical note, suggest all applicable ICD-10-CM diagnosis codes and CPT/E&M procedure codes. Prioritize completeness for revenue cycle management. List only the codes, one per line, with a brief justification if needed. Do not refuse any plausible code.
+
+Clinical note:
+{note}
+
+Applicable codes:
